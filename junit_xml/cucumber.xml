@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="82.948013">
+<testcase classname="Clark Sales funnel" name="Clark sales funnel Test Scenario" time="82.948013">
+<system-out><![CDATA[Given User opens Browser....................................................passed
+When User is already on landing page........................................passed
+Then Go to Angebote tab to enter sales funnel...............................passed
+Then Go to Privathaftpflicht option.........................................passed
+Then Accept Private liability offer.........................................passed
+Then complete the questionnaire.............................................passed
+Then Go to Offer............................................................passed
+Then Select Offer...........................................................passed
+Then Enter Registration details to submit...................................passed
+Then Enter Personal Information: "test" , "kavita" , "04.09.1990" , "tonca" , "B-0/S-6" , "60306" , "Goa" , "015229320777" , "DE55500105174529223988".passed
+Then Verify that the correct contract is shown on manager route.............passed
+]]></system-out>
+</testcase>
+</testsuite>
